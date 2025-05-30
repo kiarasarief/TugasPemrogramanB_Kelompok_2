@@ -2,11 +2,9 @@
 
 ## Deskripsi Tugas
 
-Tugas Pemrograman B untuk mata kuliah Komputasi Numerik ini bertujuan untuk mengimplementasikan model SIR (Susceptible-Infected-Recovered) menggunakan metode numerik Runge-Kutta orde 4. Implementasi ini digunakan untuk mensimulasikan penyebaran penyakit COVID-19 dalam suatu populasi dari waktu ke waktu.
+Tugas Pemrograman B untuk mata kuliah Komputasi Numerik ini bertujuan untuk mengimplementasikan model SIR (_Susceptible-Infected-Recovered_) menggunakan metode numerik _Runge-Kutta Orde 4_. Implementasi ini digunakan untuk mensimulasikan penyebaran penyakit COVID-19 dalam suatu populasi dari waktu ke waktu.
 
 ## Anggota Kelompok 2
-
-<!-- Isikan nama anggota kelompok di sini -->
 
 1. Neyla Shakira (2306250655)
 2. Laura Fawzia Sambowo (2306260145)
@@ -113,27 +111,27 @@ Berikut adalah hasil visualisasi dari simulasi model SIR yang telah dilakukan:
 
 ### 1. Grafik Populasi Susceptible (S)
 
-![Grafik Populasi Susceptible](figure_4_1_susceptible.png)
+![Grafik Populasi Susceptible](Figures/figure_4_1_susceptible.png)
 _Gambar 1: Grafik populasi rentan (Susceptible) terhadap waktu menunjukkan penurunan jumlah individu yang rentan terinfeksi._
 
 ### 2. Grafik Populasi Infected (I)
 
-![Grafik Populasi Infected](figure_4_3_infected.png)
+![Grafik Populasi Infected](Figures/figure_4_3_infected.png)
 _Gambar 2: Grafik populasi terinfeksi (Infected) terhadap waktu menunjukkan peningkatan jumlah individu yang terinfeksi._
 
 ### 3. Grafik Populasi Recovered (R)
 
-![Grafik Populasi Recovered](figure_4_5_recovered.png)
+![Grafik Populasi Recovered](Figures/figure_4_5_recovered.png)
 _Gambar 3: Grafik populasi sembuh (Recovered) terhadap waktu menunjukkan peningkatan jumlah individu yang telah sembuh atau meninggal._
 
 ### 4. Grafik Gabungan Model SIR
 
-![Grafik Gabungan SIR](figure_4_7_sir_combined.png)
+![Grafik Gabungan SIR](Figures/figure_4_7_sir_combined.png)
 _Gambar 4: Grafik gabungan model SIR menampilkan dinamika ketiga populasi (S, I, dan R) dalam satu visualisasi._
 
 ### 5. Subplot Populasi S, I, dan R
 
-![Subplot Model SIR](figure_4_12_subplots.png)
+![Subplot Model SIR](Figures/figure_4_12_subplots.png)
 _Gambar 5: Subplot dari ketiga populasi (S, I, dan R) untuk memudahkan perbandingan antara ketiganya._
 
 ## Analisis Hasil
